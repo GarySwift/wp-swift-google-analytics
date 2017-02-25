@@ -7,7 +7,7 @@
  * Author URI:        https://github.com/GarySwift
  * License:           MIT License
  * License URI:       http://www.opensource.org/licenses/mit-license.php
- * Text Domain:       brightlight-main-menu
+ * Text Domain:       wp-swift-google-analytics
 
 ## Licence
 This project is licensed under the MIT license.
